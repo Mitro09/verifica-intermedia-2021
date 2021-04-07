@@ -5,6 +5,9 @@ Dare la priorità alla consegna su formaretedad formato zip
 
 - dopo la consegna del 6 Aprile 2021 potete completare l'esercitazione su repository e altervista
 
+
+### [Documento di drive dove inserire i riferimenti](https://docs.google.com/spreadsheets/d/1OVv-vFbc5OM0FhRONraV3XmTt6E8l9icCyvqPIUFe0A/edit?usp=sharing)
+
 ## Importazione dati, creazione della classe User, trasformazione di un elenco di istanze della classe Users
 
 - [ ] importare i dati presenti nel file [./dataset/users-management-system.json]("./dataset/users-management-system.json")
